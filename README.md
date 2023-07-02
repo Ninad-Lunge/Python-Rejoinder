@@ -4,6 +4,9 @@ Topics included are:
 2. Newton's Rings
 3. Optical Fibre
 
+## How to run:
+Execute the Code_with_GUI.py file with a Python Interpreter.
+
 ## Screenshots of the output:
 ![Screenshot (413)](https://github.com/Ninad-Lunge/Python-Rejoinder/assets/96621805/ea2cf134-39a6-48a5-924f-ce9cd4dc603f)
 
