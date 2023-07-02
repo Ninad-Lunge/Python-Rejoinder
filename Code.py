@@ -9,7 +9,7 @@ option = str(input("\nEnter your choice : "))
 # Code for Thin film Interfernce :
 if(option=='a'):
     print("Enter 1 - To find : Minimum thickness of a thin flim if it appears dark")
-    print("Enter 2 - To find : Minimumm thickness of a thin film if it appears bright")
+    print("Enter 2 - To find : Minimum thickness of a thin film if it appears bright")
     print("Enter 3 - To find : Wavelength of light if thin film appears dark")
     print("Enter 4 - To find : Wavelength of ligth if thin film appears bright")
     print("Enter 5 - To find : Refractive Index of Film if thin film appears dark")
@@ -98,7 +98,7 @@ elif(option=='b'):
         n = int(input("Enter the value of n : "))
         m = int(input("Enter the value of m : "))
         rad_cu = float(input("Enter the Radius of curvature of lens : "))
-        rad_cu = ((dn*dn)-(dm*dm))/(4*rad_cu*(n-m))
+        wavelength = ((dn*dn)-(dm*dm))/(4*rad_cu*(n-m))
         print(f"Wavelength of ligth used is : {wavelength}")
 
 elif(option=='c'):
