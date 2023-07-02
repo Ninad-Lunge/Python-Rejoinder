@@ -1,12 +1,9 @@
 # Python Rejoinder
 
-## This Python Program solves First Year Engineering Physics Numericals
-Topics included are:
+Originally written only in Python, later modified with a Graphical User Interface (GUI) with the 'Tkinter' library. This code is for solving First Year Engineering Physics Numericals. Topics included in the project are:
 1. Thin Film Interference
 2. Newton's Rings
 3. Optical Fibre
-
-Originally written only in Python, later modified with a Graphical User Interface (GUI) with the 'Tkinter' library.
 
 ## How to run:
 Execute the Code_with_GUI.py file with a Python Interpreter.
