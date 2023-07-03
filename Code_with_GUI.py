@@ -423,7 +423,7 @@ Enter 5 - To find : Fractional Refractive Index'''
                 e3.grid(row=11, column=1)
 
                 def compute():
-                    core = float(e2.get())
+                    clad = float(e2.get())
                     acceptance_angle = float(e3.get())
 
                     a = (math.sin(acceptance_angle) ** 2) + (clad*clad)
